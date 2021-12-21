@@ -5,3 +5,5 @@ Compiled PupperCoinCrowdSale.sol.
 Deployed the Deployer contract.
 
 <img width="1440" alt="Screen Shot 2021-12-20 at 5 56 29 PM" src="https://user-images.githubusercontent.com/87285522/146870023-b0f8b324-0018-48a1-8e15-ad44e1c50913.png">
+
+Mint new account.
