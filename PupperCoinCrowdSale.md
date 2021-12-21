@@ -9,3 +9,6 @@ Deployed the Deployer contract.
 Buy Tokens. 
 
 <img width="1440" alt="Screen Shot 2021-12-20 at 6 01 57 PM" src="https://user-images.githubusercontent.com/87285522/146872542-cc557476-a76e-4778-ace0-36615bf8c6bc.png">
+
+Transaction addresses. 
+
