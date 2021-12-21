@@ -13,3 +13,7 @@ Buy Tokens.
 Transaction addresses. 
 
 <img width="1440" alt="Screen Shot 2021-12-20 at 5 57 15 PM" src="https://user-images.githubusercontent.com/87285522/146872863-59380c53-05da-47cd-9f65-e71560188e41.png">
+
+Transactions on ganache show that 3 eth (the limit) were transferred. 
+
+<img width="1146" alt="Screen Shot 2021-12-20 at 9 05 30 PM" src="https://user-images.githubusercontent.com/87285522/146874467-6ca88d1d-1938-48cf-a8fb-633f64a99752.png">
